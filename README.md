@@ -11,10 +11,10 @@ PyCaret is `simple`, `easy to use` and `deployment ready`. All the steps perform
 For more information on PyCaret, please visit our official website https://www.pycaret.org
 
 ## Current Release
-The first stable release pycaret version `1.0.0` is now publicly available. The easiest way to install pycaret is using pip.
+The first stable release pycaret version `1.0.0` is now publicly available.It is supported only for 64 bit. The easiest way to install pycaret is using pip.
 
 ```python
-pip install pycaret
+command to install using pip : pip install pycaret
 ```
 
 ## Important Links
